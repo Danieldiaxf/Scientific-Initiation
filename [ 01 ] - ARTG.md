@@ -9,4 +9,5 @@
 
 ### 📌 **Resumo e Introdução**: 
 * A introdução traz para o leitor uma abordagem direta sobre a principal indagação a ser discutida a posteriori
-  pelo autor.
+  pelo autor, deixando nítido nas primeiras sentenças, que a dissertação trará como ponto chave a análise do uso de sistemas de IA's
+  como ferramentas de auxílio nas etapdas de desenvolvimento de software.
