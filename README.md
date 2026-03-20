@@ -12,5 +12,5 @@ compreesão e interpretação de artigos científicos.
 meu próprio texto científico.
 
 # 📖 3. Interesses:
-* Os tópicos que serão mencioandos nos arquivos deste repositório serão focados em **Inteligência Artificial** aplicada na **Engenharia de Software** e suas **Metodologias de Desenvolvimento**, bem como
+* Os artigos que serão mencioandos nos arquivos deste repositório serão focados em **Inteligência Artificial** aplicada na **Engenharia de Software** e suas **Metodologias de Desenvolvimento**, bem como
 seu auxílio nas **elicitações de requisitos**, **documentações**, **prototipações**, **codificação**, **debuggings** e **previsões de possíveis problemas futuros**.
